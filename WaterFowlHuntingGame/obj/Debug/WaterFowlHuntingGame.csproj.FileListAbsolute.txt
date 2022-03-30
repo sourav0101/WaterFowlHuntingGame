@@ -1,0 +1,20 @@
+C:\Users\null_Ptr\Desktop\WaterFowlHuntingGame\WaterFowlHuntingGame\bin\Debug\WaterFowlHuntingGame.exe.config
+C:\Users\null_Ptr\Desktop\WaterFowlHuntingGame\WaterFowlHuntingGame\bin\Debug\WaterFowlHuntingGame.exe
+C:\Users\null_Ptr\Desktop\WaterFowlHuntingGame\WaterFowlHuntingGame\bin\Debug\WaterFowlHuntingGame.pdb
+C:\Users\null_Ptr\Desktop\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.csproj.AssemblyReference.cache
+C:\Users\null_Ptr\Desktop\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.WaterFowlHuntingGame.resources
+C:\Users\null_Ptr\Desktop\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.Properties.Resources.resources
+C:\Users\null_Ptr\Desktop\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.csproj.GenerateResource.cache
+C:\Users\null_Ptr\Desktop\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.csproj.CoreCompileInputs.cache
+C:\Users\null_Ptr\Desktop\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.exe
+C:\Users\null_Ptr\Desktop\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.pdb
+C:\Users\null_Ptr\Desktop\C sharp\WaterFowlHuntingGame\WaterFowlHuntingGame\bin\Debug\WaterFowlHuntingGame.exe.config
+C:\Users\null_Ptr\Desktop\C sharp\WaterFowlHuntingGame\WaterFowlHuntingGame\bin\Debug\WaterFowlHuntingGame.exe
+C:\Users\null_Ptr\Desktop\C sharp\WaterFowlHuntingGame\WaterFowlHuntingGame\bin\Debug\WaterFowlHuntingGame.pdb
+C:\Users\null_Ptr\Desktop\C sharp\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.csproj.AssemblyReference.cache
+C:\Users\null_Ptr\Desktop\C sharp\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.WaterFowlHuntingGame.resources
+C:\Users\null_Ptr\Desktop\C sharp\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.Properties.Resources.resources
+C:\Users\null_Ptr\Desktop\C sharp\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.csproj.GenerateResource.cache
+C:\Users\null_Ptr\Desktop\C sharp\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.csproj.CoreCompileInputs.cache
+C:\Users\null_Ptr\Desktop\C sharp\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.exe
+C:\Users\null_Ptr\Desktop\C sharp\WaterFowlHuntingGame\WaterFowlHuntingGame\obj\Debug\WaterFowlHuntingGame.pdb
